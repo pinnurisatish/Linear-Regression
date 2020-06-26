@@ -9,10 +9,10 @@ We will be working on a dataset that has sales prices of houses in King County. 
 You can see the dataset here
 
 To load the dataset in your jupyter notebook, use the below command:
-
+```
 import pandas as pd
 house_data = pd.read_csv('https://raw.githubusercontent.com/dphi-official/Datasets/master/kc_house_data/kc_house_data.csv')
-
+```
 ## Data Description
 In this dataset the sales price of houses in King County (Seattle) are present. It includes homes sold between May 2014 and May 2015. Before doing anything we should first know about the dataset what it contains what are its features and what is the structure of data.
 <ol>
