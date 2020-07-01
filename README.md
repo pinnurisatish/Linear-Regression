@@ -1,7 +1,7 @@
 # Linear-Regression
 This repository contains linear regression models
 
-# Linear Regression - King County
+# Linear Regression - House Price Prediction 
 ## Objective
 We will be working on a dataset that has sales prices of houses in King County. As a data scientist, you are given a responsibility to create a machine learning model that would predict the sales price for each house in future based on certain input variables. The target variable in this dataset is 'price' and you are given a new unseen test dataset on which you will have to predict price of each house.
 
